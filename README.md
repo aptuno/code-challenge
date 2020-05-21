@@ -9,7 +9,7 @@ Con este desafío, pretendemos conocerlo un poco mejor. Queremos ver un breve ej
 Tenemos diferentes desafíos con un foco específico para cada área de actuación, por favor escoja a continuación el desafío que esté alineado con sus características y deseos profesionales.
 
 - [Desafio back-end](challenges/backend.md)
-- [Desafio back-end](challenges/frontend.md)
+- [Desafio front-end](challenges/frontend.md)
 
 ## Critérios de calificación
 
@@ -20,7 +20,7 @@ Para la evaluación de su código, esperamos que su código sea portable. Espera
 Para el desarrollo del desafío usted puede utilizar alguna de las siguientes lenguajes de programación:
 
 - **Backend:** Java, NodeJS, Python o Golang. 
-- **Frontend:** JavaScript.
+- **Frontend:** JavaScript/CSS.
 
 Dentro de los criterios que vamos a tener en cuenta a la hora de revisar su código, revisaremos:
 
@@ -46,6 +46,8 @@ Pedimos por favor que usted cree para su repositorio un **README** con instrucci
 - ¿Cómo rodar sus pruebas?
 
 Nosotros valorizamos mucho la documentación de los proyectos en ese formato, utilice ese **README** como su carta de presentación.
+
+Si usted esta realizando el desafio de `frontend`, apreciariamos que agregara una sección en el README.md con una grabación breve del `gif` sobre como funcionan las interacciones de las páginas que usted creo. Puede utilizar aplicaciones como [recordit](https://recordit.co/) para esto.
 
 Cuando termine su desafío, por favor déjenos saber. De acceso al repositorio para el usuario de *GitHub* `tech-aptuno` y responda el e-mail de la persona que está en contacto sobre su proceso de contratación, incluyendo el link de su desafío.
 
