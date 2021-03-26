@@ -20,8 +20,8 @@ A partir de una lista de propiedades que vamos a disponibilizar en el siguiente 
       "title": "Apartamento cerca a la estación de transmilenio",
       "description": "Apartamento con 3 cuartos y 2 baños localizado a 100 metros de la avenida caracas en la zona de Marly",
       "location": {
-        "longitude" : -74.0652887,
-        "latitude" : 4.6370493
+        "longitude": -74.0652887,
+        "latitude": 4.6370493
       },
       "pricing": {
         "rentalPrice": 2000000,
@@ -32,7 +32,7 @@ A partir de una lista de propiedades que vamos a disponibilizar en el siguiente 
       "bathrooms": 2,
       "area": 60,
       "photos": [
-        "https://cdn.pixabay.com/photo/2014/08/11/21/39/wall-416060_960_720.jpg", 
+        "https://cdn.pixabay.com/photo/2014/08/11/21/39/wall-416060_960_720.jpg",
         "https://cdn.pixabay.com/photo/2016/09/22/11/55/kitchen-1687121_960_720.jpg"
       ],
       "createdAt": "2020-05-10T04:20:33Z",
@@ -43,7 +43,7 @@ A partir de una lista de propiedades que vamos a disponibilizar en el siguiente 
 }
 ```
 
-1. **Cree una página de resultado.** 
+1. **Cree una página de resultado.**
 
 ##### Card
 
@@ -63,13 +63,36 @@ La página de resultados debe permitir filtrar los siguientes atributos:
 
 ##### Paginación
 
-La página de resultados debe tener una paginación hecha por usted, debe destacar la página actual de las otras páginas. Tenga en cuenta la cantidad de resultados filtrados al ajustar su paginación. Cuando el usuario filtra resultados, va a quedar activa por *default* la página 1.
+La página de resultados debe tener una paginación hecha por usted, debe destacar la página actual de las otras páginas. Tenga en cuenta la cantidad de resultados filtrados al ajustar su paginación. Cuando el usuario filtra resultados, va a quedar activa por _default_ la página 1.
 
 Cada página debe retornar máximo 12 propriedades.
 
-2. **Cree una página de detalle.** 
+2. **Cree una página de detalle.**
 
 Usando la información disponible de una propiedad, cree una versión responsiva de cómo usted cree que deberíamos representar un inmueble. Presente todos los atributos que fueron retornados para la propiedad.
 
+## Critérios de calificación
+
+Esperamos que el código que usted va a crear sea considerado por usted como _"Production Ready"_; por favor use las buenas prácticas a las cuáles usted está acostumbrado en su rutina de desarrollo de código.
+
+Para la evaluación de su código, esperamos que su código sea portable. Esperamos que usted nos provea un comando para correr fácilmente en el ambiente local, la su solución del problema.
+
+Para el desarrollo del desafío usted puede utilizar alguna de las siguientes lenguajes de programación:
+
+- **Frontend:** TypeScript, JavaScript, CSS.
+
+Dentro de los criterios que vamos a tener en cuenta a la hora de revisar su código, revisaremos:
+
+- Resuelve el problema propuesto
+- Organización y estructura del proyecto
+- Mantenibilidad
+- Rastreabilidad
+- Facilidad para hacer tests
+- Performance
+- Portabilidad
+
 ## Entrega del proyecto
-Para revisitar los criterios de calificación del desafío, y la descripción de cómo entregar el proyecto, por favor continúe leyendo la documentación principal a partir de [aquí](../README.md#critérios-de-calificación).
+
+Apreciariamos que agregara una sección en el README.md con una grabación breve del `gif` sobre como funcionan las interacciones de las páginas que usted creo. Puede utilizar aplicaciones como [recordit](https://recordit.co/) para esto.
+
+Para más detalle acerca de cómo entregar el proyecto, por favor continúe leyendo la documentación principal a partir de [aquí](../README.md#critérios-de-calificación).
