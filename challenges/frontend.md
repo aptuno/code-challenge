@@ -79,7 +79,7 @@ Para la evaluación de su código, esperamos que su código sea portable. Espera
 
 Para el desarrollo del desafío usted puede utilizar alguna de las siguientes lenguajes de programación:
 
-- **Frontend:** TypeScript, JavaScript, CSS. Puede usar paradigma funcional o programación orientada a objetos y tiene la libertad de usar los frameworks y/o librerías Javascript que considere relevantes. Por favor, no usar bibliotecas CSS pre construidas tales como Bootstrap, Material, Foundation, pero sí puede usar preprocesadores como: SASS, STYLUS etc, o bibliotecas como styled components o emotions styled etc. 
+- **Frontend:** TypeScript, CSS. Puede usar paradigma funcional o programación orientada a objetos y tiene la libertad de usar los frameworks y/o librerías Javascript que considere relevantes. **Por favor, no usar bibliotecas CSS pre construidas tales como Bootstrap, Material, Foundation**, pero sí puede usar preprocesadores como: SASS, STYLUS etc, o bibliotecas como styled components o emotions styled etc.
 
 Dentro de los criterios que vamos a tener en cuenta a la hora de revisar su código, revisaremos:
 
@@ -93,7 +93,7 @@ Dentro de los criterios que vamos a tener en cuenta a la hora de revisar su cód
 - Maquetado HTML bien estructurado y CSS adecuado.
 
 Aunque no es obligatorio, se considerará como valor añadido:
-
+- El uso de react, styled-components, graphql, paradigma funcional.
 - Uso de alguna herramienta de gestión de estados (de acuerdo al stack js elegido): NgRx, NgXs, Akita, Context Api, Redux-Sagas, Redux-Thunk, Mobx, Recoil etc.
 - Uso de server side rendering
 
