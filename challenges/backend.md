@@ -20,13 +20,12 @@ A continuación un ejemplo de la representación _JSON_ de una región, por ejem
   "name": "Chapinero",
   "boundingBox": {
     "bottomLeft" : {
-        "longitude" : -74.069225,
-        "latitude" : 4.621519
-      },
-      "upperRight" : {
-        "longitude" : -74.024078,
-        "latitude" : 4.681916
-      }
+      "longitude" : -74.069225,
+      "latitude" : 4.621519
+    },
+    "upperRight" : {
+      "longitude" : -74.024078,
+      "latitude" : 4.681916
     }
   }
 }
@@ -60,13 +59,12 @@ _Body_:
   "name": "Chapinero",
   "boundingBox": {
     "bottomLeft" : {
-        "longitude" : -74.069,
-        "latitude" : 4.621
-      },
-      "upperRight" : {
-        "longitude" : -74.024,
-        "latitude" : 4.681
-      }
+      "longitude" : -74.069,
+      "latitude" : 4.621
+    },
+    "upperRight" : {
+      "longitude" : -74.024,
+      "latitude" : 4.681
     }
   }
 }
@@ -92,16 +90,16 @@ _Body_:
   "name": "Chapinero",
   "boundingBox": {
     "bottomLeft" : {
-        "longitude" : -74.069225,
-        "latitude" : 4.621519
-      },
-      "upperRight" : {
-        "longitude" : -74.024078,
-        "latitude" : 4.681916
-      }
+      "longitude" : -74.069225,
+      "latitude" : 4.621519
+    },
+    "upperRight" : {
+      "longitude" : -74.024078,
+      "latitude" : 4.681916
     }
   }
 }
+
 ```
 
 _Response_:
@@ -124,13 +122,12 @@ _Response_:
   "name": "Chapinero",
   "boundingBox": {
     "bottomLeft" : {
-        "longitude" : -74.069225,
-        "latitude" : 4.621519
-      },
-      "upperRight" : {
-        "longitude" : -74.024078,
-        "latitude" : 4.681916
-      }
+      "longitude" : -74.069225,
+      "latitude" : 4.621519
+    },
+    "upperRight" : {
+      "longitude" : -74.024078,
+      "latitude" : 4.681916
     }
   }
 }
@@ -376,9 +373,7 @@ Esperamos que el código que usted va a crear sea considerado por usted como _"P
 
 Para la evaluación de su código, esperamos que su código sea portable. Esperamos que usted nos provea un comando para correr fácilmente en el ambiente local, la su solución del problema.
 
-Para el desarrollo del desafío usted puede utilizar alguna de las siguientes lenguajes de programación:
-
-- **Backend:** De preferencia TypeScript/NodeJS o en su defecto Java.
+Para el desarrollo del desafío usted puede utilizar el lenguaje de programación **de su preferencia** siempre y cuando sea un lenguaje "moderno" y de tipado estático.
 
 Dentro de los criterios que vamos a tener en cuenta a la hora de revisar su código, revisaremos:
 
@@ -390,4 +385,4 @@ Dentro de los criterios que vamos a tener en cuenta a la hora de revisar su cód
 
 ## Entrega del proyecto
 
-Para revisitar los criterios de calificación del desafío, y la descripción de cómo entregar el proyecto, por favor continúe leyendo la documentación principal a partir de [aquí](../README.md#critérios-de-calificación).
+Para revisitar los criterios de calificación del desafío, y la descripción de cómo entregar el proyecto, por favor continúe leyendo la documentación principal a partir de [aquí](../README.md#plazo-y-formato-para-entrega-de-la-prueba).

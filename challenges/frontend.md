@@ -101,4 +101,4 @@ Aunque no es obligatorio, se considerará como valor añadido:
 
 Apreciariamos que agregara una sección en el README.md con una grabación breve del `gif` sobre como funcionan las interacciones de las páginas que usted creo. Puede utilizar aplicaciones como [recordit](https://recordit.co/) para esto.
 
-Para más detalle acerca de cómo entregar el proyecto, por favor continúe leyendo la documentación principal a partir de [aquí](../README.md#critérios-de-calificación).
+Para más detalle acerca de cómo entregar el proyecto, por favor continúe leyendo la documentación principal a partir de [aquí](../README.md#plazo-y-formato-para-entrega-de-la-prueba).
