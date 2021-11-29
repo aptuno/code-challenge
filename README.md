@@ -11,13 +11,11 @@ Tenemos diferentes desafíos con un foco específico para cada área de actuaci�
 - [Desafio back-end](challenges/backend.md)
 - [Desafio front-end](challenges/frontend.md)
 
-## Tiempo
-
-Para la entrega de la prueba para ser calificada, usted tiene siete días para realizarla y entregarla, a partir del momento en que la recibió. Nuestro objetivo es que este desafío tome poco tiempo suyo; teniendo en cuenta nuestro histórico, creemos que la prueba va tomar entre 3 y 7 horas, sin embargo use el tiempo que usted crea necesario para realizarla.
-
 ## Plazo y formato para entrega de la prueba
+Para entregar la prueba usted tiene hasta siete días, contados a partir de la fecha en que usted recibió el desafío.
 
-Para entregarlo el código debe estar en un repositorio _PRIVADO_ en Github. Para facilitar la identificación del proyecto, por favor coloque el nombre del proyecto como `{su-usuario-github}-aptuno-{challengeType}` (e.g `diana2020-aptuno-backend`). Por favor antes de enviar el código valide los permisos de su repositorio. No vamos a revisar repositorios públicos.
+Para la entrega, el código debe estar en un repositorio _PRIVADO_ en Github.  
+Para facilitar la identificación del proyecto, por favor nombre el proyecto como `{su-usuario-github}-aptuno-{challengeType}` (e.g `diana2020-aptuno-backend`). Por favor antes de enviar el código valide los permisos de su repositorio. No vamos a revisar repositorios públicos.
 Pedimos por favor que usted cree para su repositorio un **README** con los siguientes items:
 
 - ¿Cómo correr su código localmente?
@@ -25,6 +23,8 @@ Pedimos por favor que usted cree para su repositorio un **README** con los sigui
 - Agregue un resumen de las decisiones tecnicas (Arquitecturas, Patrones de diseño) tomadas para abordar la prueba.
 
 Nosotros valoramos mucho la documentación de los proyectos en ese formato, utilice ese **README** como su carta de presentación.
+
+>**Nota**: Para el desafío [backend](challenges/backend.md), le agradecemos proveer un ambiente dockerizado utilizando [docker-compose](https://docs.docker.com/compose/), y así evitarnos la instalación y configuración de herramientas específicas de su entregable.
 
 Cuando termine su desafío, por favor déjenos saber. De acceso al repositorio para el usuario de _GitHub_ `tech-aptuno` y responda el e-mail de la persona que está en contacto sobre su proceso de contratación, incluyendo el link de su desafío.
 
