@@ -1,8 +1,22 @@
 # Desafio para Backend Software Engineer
 
+Esperamos que el código que usted va a crear sea considerado por usted como _"Production Ready"_; por favor use las buenas prácticas a las cuáles usted está acostumbrado en su rutina de desarrollo de código.
+
+>**Nota:** Para el desarrollo del desafío usted puede utilizar el lenguaje de programación _**de su preferencia**_ siempre y cuando sea un lenguaje "moderno" y de tipado estático.
+
+Dentro de los criterios que vamos a tener en cuenta a la hora de revisar su código, revisaremos:
+
+- Resuelve el problema propuesto
+- Organización y estructura del proyecto
+- Mantenibilidad
+- Facilidad para hacer tests
+- Valoraremos adicionalmente si usa alguna arquitectura limpia.
+
 ## Descripción del problema
 
 En Aptuno trabajamos con `propriedades` de propietarios que están arrendando su inmueble con nosotros. Esas `propiedades` están localizadas en una o más `regiones` de la ciudad; el objetivo de este desafío es realizar una aplicación la cual exponga un _API_ que permita realizar algunas operaciones de _CRUD_ para cada una de esas dos entidades con algunas reglas de negocio sobre ellas.
+
+>**Nota**: Para la persistencia, utilice cualquier RDBMS de su preferencia (MySQL, Postgresql, Oracle, etc).
 
 ### Regiones
 
@@ -44,7 +58,6 @@ Usando las siguientes estructuras de `Request` y `Body` permita las siguientes f
 
 1. **Cree nuevas regiones.**
 
-Para la persistencia de las regiones, utilice cualquier repositorio de su preferencia (_SQL_ o _NoSQL_).
 
 _Request_:
 
@@ -239,8 +252,6 @@ A continuación un ejemplo de la representación _JSON_ de una propiedad, por ej
 
 Usando las siguientes estructuras de `Request` y `Body` permita las siguientes funcionalidades. Para crear o alterar propiedades, tenga en cuenta las reglas descritas anteriormente.
 
-Un punto importante es que para las `propriedades` no debe ser usada una persistencia externa; las `propiedades` deben ser almacenadas en memoria dentro de la aplicación, usando alguna de las estructuras de datos del lenguaje de programación que usted seleccionó.
-
 1. **Cree nuevas propriedades.**
 
 _Request_:
@@ -366,22 +377,6 @@ La respuesta debe seguir la siguiente estructura de campos:
   ]
 }
 ```
-
-## Critérios de calificación
-
-Esperamos que el código que usted va a crear sea considerado por usted como _"Production Ready"_; por favor use las buenas prácticas a las cuáles usted está acostumbrado en su rutina de desarrollo de código.
-
-Para la evaluación de su código, esperamos que su código sea portable. Esperamos que usted nos provea un comando para correr fácilmente en el ambiente local, la su solución del problema.
-
-Para el desarrollo del desafío usted puede utilizar el lenguaje de programación **de su preferencia** siempre y cuando sea un lenguaje "moderno" y de tipado estático.
-
-Dentro de los criterios que vamos a tener en cuenta a la hora de revisar su código, revisaremos:
-
-- Resuelve el problema propuesto
-- Organización y estructura del proyecto
-- Mantenibilidad
-- Facilidad para hacer tests
-- Valoraremos adicionalmente si usa alguna arquitectura limpia.
 
 ## Entrega del proyecto
 
