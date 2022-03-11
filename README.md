@@ -2,7 +2,7 @@
 
 ## Propósito del desafío
 
-Con este desafío, pretendemos conocerlo un poco mejor. Queremos ver un breve ejemplo de la forma como usted codifica durante su rutina, como usted aborda la solución de un problema, como usted estructura su código.
+Con este desafío, pretendemos conocerle un poco mejor. Queremos ver un breve ejemplo de la forma como usted codifica durante su rutina, como usted aborda la solución de un problema, como usted estructura su código.
 
 ## Escoja su desafío
 
@@ -11,10 +11,9 @@ Tenemos diferentes desafíos con un foco específico para cada área de actuaci�
 - [Desafio back-end](challenges/backend.md)
 - [Desafio front-end](challenges/frontend.md)
 
-## Plazo y formato para entrega de la prueba
-Para entregar la prueba usted tiene hasta siete días, contados a partir de la fecha en que recibió el desafío.
+## Formato de entrega de la prueba
 
-Para la entrega, el código debe estar en un repositorio _PRIVADO_ en Github.  
+El código debe estar en un repositorio _PRIVADO_ en Github.  
 Para facilitar la identificación del proyecto, por favor nombre el proyecto como `{su-usuario-github}-aptuno-{challengeType}` (e.g `diana2020-aptuno-backend`). Por favor antes de enviar el código valide los permisos de su repositorio. No vamos a revisar repositorios públicos.
 Pedimos por favor que usted cree para su repositorio un **README** con los siguientes items:
 

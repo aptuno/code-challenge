@@ -1,6 +1,6 @@
 # Desafio para Backend Software Engineer
 
-Esperamos que el código que usted va a crear sea considerado por usted como _"Production Ready"_; por favor use las buenas prácticas a las cuáles usted está acostumbrado en su rutina de desarrollo de código.
+Esperamos que el código que usted va a crear sea considerado por usted como _"Production Ready"_; por favor use las buenas prácticas que usted acostumbra aplicar en su rutina de desarrollo de código.
 
 >**Nota:** Para el desarrollo del desafío usted puede utilizar el lenguaje de programación _**de su preferencia**_ siempre y cuando sea un lenguaje "moderno" y de tipado estático.
 
